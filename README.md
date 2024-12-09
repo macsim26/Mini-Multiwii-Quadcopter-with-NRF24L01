@@ -32,7 +32,8 @@ Rear Left: 6</p>
 <li><b>MOSI: 11</b></li>
 <li><b>MISO: 12</b></li>
 </ul>
-<p>=============================================== WARNING !!!!! ======================================================</p>
+
+WARNING !!!!!
 <p><b>ONLY arduino PROMINI 328p 5v FOR MINI QUADX with MOSFET will work!</b></p>
 
 
