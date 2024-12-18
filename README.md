@@ -9,13 +9,17 @@ This is the final arduno project of mini quadcopter (QUADX) using Multiwii 2.3 f
 Please see our documentation in https://www.youtube.com/@ardujimmy</p>
 <p>We also provide the schematic diagram and all needed to build a brushed mini quadcopter.</p>
 
-<h3>SCHEMATIC DIAGRAM</h3>
+<h3>RX SCHEMATIC DIAGRAM</h3>
 
 <img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Wiring.jpg" alt="nrf24l01 multiwii quadcopter" title="Arduino Quadcopter with Multiwii 2.3 and NRF24L01"/>
 
+<h3>TX SCHEMATIC DIAGRAM</h3>
+
+<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Schematic-Transmitter.jpg" alt="TX Transmitter for nrf24l01 multiwii quadcopter" title="Arduino Quadcopter with Multiwii 2.3 and NRF24L01"/>
+
 <p>By using this NRF_Multiwii version you agree at your own risk!!!</p>
 
-<h3>PIN CONFIGURATION</h3>
+<h3>MOTORS PIN CONFIGURATION </h3>
 <ul style="font-size:17px;">
   
 <li>Motors pin: 9,10,6,3</li>
@@ -33,8 +37,36 @@ Rear Left: 6</p>
 <li><b>MISO: 12</b></li>
 </ul>
 
+<h3>TRANSMITTER PIN CONFIGURATION </h3>
+<ul>
+<li>CE: 4</li>
+<li>CSN: 3</li>
+<li>SCK: 13</li>
+<li>MOSI: 11</li>
+<li>MISO: 12</li>
+<li>Throttle: A1</li>
+<li>Yaw: A0</li>
+<li>Pitch: A3</li>
+<li>Roll: A2</li>
+<li>AUX1: 5</li>
+<li>AUX2: 6</li>  
+</ul>
+
+<h3>ADDITIONAL INFORMATION</h3>
+<p>If you use specific joystick, then wiring must be like this follow:</p>
+
+<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Specific%20Joystick%20Wiring.jpg" alt="Specific Joystick Wiring" title="Specific Joystick Wiring"/>
+
+<p>All Information above based on common transmitter configuration. For more info, see this pic below.</p>
+
+<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/common_Config_transmitter.jpg" alt="Common Transmitter Model" title="Common Transmitter Model"/>
+
+
+
 WARNING !!!!!
 <p><b>ONLY arduino PROMINI 328p 5v FOR MINI QUADX with MOSFET will work!</b></p>
+
+<p>Please subscribe and share our channel for more videos: https://www.youtube.com/@ardujimmy</p>
 
 
 
