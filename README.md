@@ -4,6 +4,11 @@ This is the final arduno project of mini quadcopter (QUADX) using Multiwii 2.3 f
 <h2>YOU DO NOT NEED TO CHANGE ANYTHING THE CODE</h2>
 <p>Please leave a comment in <b><a href="https://www.youtube.com/@ArduJimmy">Ardujimmy Youtube Channel</a></b> if you have a question or have a problem with it.</p>
 
+<p>
+HOW TO MAKE DRONE with NRF24: <a href="https://www.youtube.com/watch?v=wbK7oOLr6PM" target="_blank">Video Here</a><br />
+HOW TO MAKE DRONE TRANSMITTER with NRF24: (will be available soon)
+</p>
+
 <h3>REQUIREMENTS</h3>
 <p>Only works for LADYBIRD Board Types ONLY! (328p 5v Version: Arduino Nano, Arduino Pro mini, Arduino UNO)
 Please see our documentation in https://www.youtube.com/@ardujimmy</p>
