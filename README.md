@@ -6,7 +6,7 @@ This is the final arduno project of mini quadcopter (QUADX) using Multiwii 2.3 f
 
 <p>
 HOW TO MAKE DRONE with NRF24: <a href="https://www.youtube.com/watch?v=wbK7oOLr6PM" target="_blank">Video Here</a><br />
-HOW TO MAKE DRONE TRANSMITTER with NRF24: (will be available soon)
+HOW TO MAKE DRONE TRANSMITTER with NRF24: <a href="https://youtu.be/4M9A6sWJjzM" target="_blank">Video Here</a>
 </p>
 
 <h3>REQUIREMENTS</h3>
