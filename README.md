@@ -76,6 +76,7 @@ Rear Left: 6</p>
 <img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/common_Config_transmitter.jpg" alt="Common Transmitter Model" title="Common Transmitter Model"/>
 
 <h3>JOYSTICK TYPES PIC</h3>
+<p><b>Please choose the type of joystick you are using</b>: <b>Specific Joystick</b> or <b>Standard Joystick</b>. Then, download NRF24_Transmitter code based on the type of your joystick.</p>
 <img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Joystick_Types.jpg"/>
 <br />
 WARNING !!!!!
