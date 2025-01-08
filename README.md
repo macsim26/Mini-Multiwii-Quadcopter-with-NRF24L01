@@ -75,8 +75,9 @@ Rear Left: 6</p>
 
 <img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/common_Config_transmitter.jpg" alt="Common Transmitter Model" title="Common Transmitter Model"/>
 
-
-
+<h3>JOYSTICK TYPES PIC</h3>
+<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Joystick_Types.jpg"/>
+<br />
 WARNING !!!!!
 <p><b>ONLY arduino PROMINI 328p 5v FOR MINI QUADX with MOSFET will work!</b></p>
 
