@@ -4,8 +4,8 @@ This is the final arduno project of mini quadcopter (QUADX) using Multiwii 2.3 f
 UPDATED:
 I have uploaded revised code for NRF24L01 Transmitter based on the problem shown by one of Ardujimmy's subscribers. That's why I provided 2 codes for you based on your Joystick TYPE, as follow:
 <ul>
-  <li>STANDARD ANALOG JOYSTICK: https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/standard_joystick_NRF24_Transmitter.zip</li>
-  <li>SPECIFIC JOYSTICK: https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Specific_Joystick_NRF24_Transmitter.zip</li>
+  <li><b>STANDARD ANALOG JOYSTICK</b>: https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/standard_joystick_NRF24_Transmitter.zip</li>
+  <li><b>SPECIFIC JOYSTICK</b>: https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Specific_Joystick_NRF24_Transmitter.zip</li>
 </ul>
 
 <p>Please see the different in pictures in this readme file!</p>
