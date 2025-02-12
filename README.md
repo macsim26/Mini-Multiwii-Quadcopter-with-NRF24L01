@@ -1,5 +1,7 @@
-# UPDATED 08 JANUARY 2025, Mini-Multiwii-Quadcopter-with-NRF24L01
+# UPDATED 12 FEBRUARY 2025, Mini-Multiwii-Quadcopter-with-NRF24L01
 This is the final arduno project of mini quadcopter (QUADX) using Multiwii 2.3 firmware with NRF24L01 as a single board. Enjoy!
+
+<h2>NEW UPDATE on 12 FEBRUARY 2025 (WIRING: Schematic Diagram)</h2>
 
 UPDATED:
 I have uploaded revised code for NRF24L01 Transmitter based on the problem shown by one of Ardujimmy's subscribers. That's why I provided 2 codes for you based on your Joystick TYPE, as follow:
