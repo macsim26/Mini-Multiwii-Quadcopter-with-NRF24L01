@@ -25,7 +25,7 @@ Please see our documentation in https://www.youtube.com/@ardujimmy</p>
 
 <h3>RX SCHEMATIC DIAGRAM</h3>
 
-<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/Wiring.jpg" alt="nrf24l01 multiwii quadcopter" title="Arduino Quadcopter with Multiwii 2.3 and NRF24L01"/>
+<img src="https://github.com/ArduJimmy/Mini-Multiwii-Quadcopter-with-NRF24L01/blob/main/nrf24l01_drone_wiring.jpg" alt="nrf24l01 multiwii quadcopter" title="Arduino Quadcopter with Multiwii 2.3 and NRF24L01"/>
 
 <h3>TX SCHEMATIC DIAGRAM</h3>
 
